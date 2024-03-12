@@ -15,8 +15,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
-  <a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://twitter.com/androud2" alt="your-twitter" height="30" width="40" /></a>
+  <a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://www.instagram.com/andr1u_" alt="your-instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages which i use:</h3>
